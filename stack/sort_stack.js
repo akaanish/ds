@@ -1,4 +1,4 @@
-
+// O(n2) time | O(n) space
 const sortStack = (stack) => {
     if (stack.length === 0) {
         return stack;
